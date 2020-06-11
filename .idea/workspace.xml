@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20a7c5a9-6636-4094-b80e-67f6e1ae7b09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="spring-beans.schema" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\environmentVariable\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="D:/environmentVariable/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="D:\environmentVariable\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1dB7FAZx8SCNuk0FmK6WvX1qoK7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Student\SSM\mallTwo-parent\User_pommer\src\main\java\com" />
+      <recent name="D:\Student\SSM\mallTwo-parent\User_pommer\src\main\java" />
+      <recent name="D:\Student\SSM\mallTwo-parent\User_pommer\src\main\webapp" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20a7c5a9-6636-4094-b80e-67f6e1ae7b09" name="Default Changelist" comment="" />
+      <created>1591886525996</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591886525996</updated>
+      <workItem from="1591886527448" duration="2537000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="512" y="184" key="FileChooserDialogImpl" timestamp="1591889154419">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="512" y="184" key="FileChooserDialogImpl/0.0.1463.884@0.0.1463.884" timestamp="1591889154419" />
+    <state width="1420" height="230" key="GridCell.Tab.0.bottom" timestamp="1591888069163">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.bottom/0.0.1463.884@0.0.1463.884" timestamp="1591888069163" />
+    <state width="1420" height="230" key="GridCell.Tab.0.center" timestamp="1591888069162">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.center/0.0.1463.884@0.0.1463.884" timestamp="1591888069162" />
+    <state width="1420" height="230" key="GridCell.Tab.0.left" timestamp="1591888069162">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.left/0.0.1463.884@0.0.1463.884" timestamp="1591888069162" />
+    <state width="1420" height="230" key="GridCell.Tab.0.right" timestamp="1591888069163">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state width="1420" height="230" key="GridCell.Tab.0.right/0.0.1463.884@0.0.1463.884" timestamp="1591888069163" />
+    <state x="212" y="17" key="SettingsEditor" timestamp="1591887458767">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="212" y="17" key="SettingsEditor/0.0.1463.884@0.0.1463.884" timestamp="1591887458767" />
+    <state x="101" y="138" key="new project wizard" timestamp="1591886642181">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="101" y="138" key="new project wizard/0.0.1463.884@0.0.1463.884" timestamp="1591886642181" />
+    <state x="389" y="202" width="672" height="677" key="run.anything.popup" timestamp="1591888058352">
+      <screen x="0" y="0" width="1463" height="884" />
+    </state>
+    <state x="389" y="202" width="672" height="677" key="run.anything.popup/0.0.1463.884@0.0.1463.884" timestamp="1591888058352" />
+  </component>
+</project>

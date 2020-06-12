@@ -3,5 +3,13 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/User_pommer/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/User_pommer/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/mall-manager-web/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mall-manager/src/main/resources" charset="UTF-8" />
   </component>
 </project>

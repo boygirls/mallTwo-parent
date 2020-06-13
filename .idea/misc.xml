@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$/mall-manager/mall-manager-mapper" />
+    <file type="web" url="file://$PROJECT_DIR$/mall-manager-mapper" />
     <file type="web" url="file://$PROJECT_DIR$/mall-manager/mall-manager-pojo" />
     <file type="web" url="file://$PROJECT_DIR$/mall-manager/mall-manager-web" />
     <file type="web" url="file://$PROJECT_DIR$/User_pommer" />
@@ -12,6 +12,12 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/mall-manager-mapper/pom.xml" />
+        <option value="$PROJECT_DIR$/mall-manager/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">

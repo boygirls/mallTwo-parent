@@ -7,10 +7,11 @@
     <groupId>org.example.aab</groupId>
     <artifactId>mallTwo-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>0.0.1-SNAPSHOT</version>
     <modules>
         <module>User_pommer</module>
         <module>mall-common</module>
+        <module>mall-manager</module>
         <module>mall-manager</module>
     </modules>
 

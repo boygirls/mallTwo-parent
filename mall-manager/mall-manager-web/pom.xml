@@ -31,6 +31,18 @@
                 <directory>src/main/resources/*/*.*</directory>
             </resource>
         </resources>
+
+        <plugins> <!-- 配置Tomcat插件 -->
+            <plugin>
+                <groupId>org.apache.tomcat.maven</groupId>
+                <artifactId>tomcat7-maven-plugin</artifactId>
+                <version>2.2</version>
+                <configuration>
+                    <port>8080</port>
+                    <path>/</path>
+                </configuration>
+            </plugin>
+        </plugins>
     </build>
 
     <dependencies>
@@ -72,18 +84,6 @@
             <artifactId>shiro-all</artifactId>
         </dependency>
     </dependencies> <!-- 添加tomcat插件 -->
-<!--    <build>-->
-<!--        <plugins> &lt;!&ndash; 配置Tomcat插件 &ndash;&gt;-->
-<!--            <plugin>-->
-<!--                <groupId>org.apache.tomcat.maven</groupId>-->
-<!--                <artifactId>tomcat7-maven-plugin</artifactId>-->
-<!--                <version>2.2</version>-->
-<!--                <configuration>-->
-<!--                    <port>8080</port>-->
-<!--                    <path>/</path>-->
-<!--                </configuration>-->
-<!--            </plugin>-->
-<!--        </plugins>-->
-<!--    </build>-->
-    
+
+
 </project>

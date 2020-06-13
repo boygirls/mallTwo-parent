@@ -12,7 +12,6 @@
         <module>User_pommer</module>
         <module>mall-common</module>
         <module>mall-manager</module>
-        <module>mall-manager</module>
     </modules>
 
     <!-- 集中定义依赖版本号 -->
